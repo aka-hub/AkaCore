@@ -45,8 +45,8 @@ private static final ResourceKey<CreativeModeTab> CORE_TAB_KEY = ResourceKey.cre
 
 ## Mods using AkaCore / 사용 모드
 
-- [AkaRadarChart] 
-- [AkaImage] 
+- [AkaRadarChart](https://github.com/aka-hub/AkaRadarChart)
+- [AkaImage](https://github.com/aka-hub/AkaImage)
 
 ---
 
